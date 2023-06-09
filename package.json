@@ -1,5 +1,6 @@
 {
   "name": "mittal",
+  "homepage": "https://Sandeepkumar2973.github.io/front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,6 +22,7 @@
     "react-scrollable-anchor": "^0.6.1"
   },
   "scripts": {
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
